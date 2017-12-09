@@ -1,6 +1,6 @@
 # Connect to Spectrum Database
 
-> Note: You'll need the credentials.json file for this Python class to help.
+> Note: You'll need a credentials.json file for this Python class to work.
 
 ## Examples
 Find examples on how to connect to the spectrum data base
